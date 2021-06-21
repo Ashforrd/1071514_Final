@@ -129,8 +129,7 @@ f.close()
 
 #### 店家資料:
 列出店家名稱、地址和評分
-![image]
-(https://github.com/Ashforrd/1071514_Final/blob/master/%E5%BA%97%E5%AE%B6%E5%9F%BA%E6%9C%AC%E8%B3%87%E6%96%99.png)
+![image](https://github.com/Ashforrd/1071514_Final/blob/master/%E5%BA%97%E5%AE%B6%E5%9F%BA%E6%9C%AC%E8%B3%87%E6%96%99.png)
 
 #### 顧客評論:
 顧客評論會放在reviews內，每家店有5筆，按照評分高低來排列

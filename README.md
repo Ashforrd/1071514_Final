@@ -1,6 +1,8 @@
 # gmaps_search
-使用方法: 在存放的資料夾下運行 gmaps_search.py 文件即可 
-需輸入引數，指令範例如下: python gmaps_search.py 桌游(arg1) 花蓮縣 台北市(arg2)
+使用方法: 在存放的資料夾下運行 gmaps_search.py 文件即可，需輸入引數，指令範例如下: 
+```python
+python gmaps_search.py 桌游'''arg1''' 花蓮縣 台北市'''arg2'''
+```
 - arg1:需輸入一種店家類型:如桌游店、寵物店..等等
 - arg2:需輸入至少一個以上的縣市名稱，如花蓮縣、台北市...等等
 有使用到 requests 和 googlemaps 函式庫，需自行安裝，指令如下
